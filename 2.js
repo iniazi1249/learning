@@ -1,4 +1,4 @@
 function getPerson (n,s) {
-	return  n+ " " + s
+	return  n+ " <> " + s
 }
 
